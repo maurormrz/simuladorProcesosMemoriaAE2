@@ -27,7 +27,7 @@ Para ejecutar y probar el proyecto es necesario contar con:
 ## Instalación
 
 1. Clonar el repositorio:
-   ```bash
+```bash
    git clone [https://github.com/maurormrz/simuladorProcesosMemoriaAE2.git](https://github.com/maurormrz/simuladorProcesosMemoriaAE2.git)
 
 ```
@@ -83,7 +83,3 @@ npm run coverage
 * Coalescencia automática de bloques contiguos al liberar memoria.
 * Planificación de CPU mediante **Round Robin** con quántum configurable.
 * El correcto funcionamiento se valida al 100 % mediante pruebas automatizadas unitarias e integradas, prescindiendo de interfaz gráfica o menú interactivo.
-
-```
-
-```
