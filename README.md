@@ -1,6 +1,6 @@
 # simuladorProcesosMemoriaAE2
 
-Proyecto correspondiente a la Actividad de Evaluación 2 (AE2) - Sistemas Operativos.
+Proyecto correspondiente a la Actividad de Evaluación 2 (AE2) - Sistemas Operativos y Paradigmas y Lenguajes de Programación II.
 
 El objetivo del proyecto es desarrollar un simulador de administración de procesos y memoria contigua utilizando Programación Orientada a Objetos (POO) con TypeScript y desarrollo guiado por pruebas (TDD).
 
